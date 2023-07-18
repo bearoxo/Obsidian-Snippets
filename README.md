@@ -4,7 +4,7 @@ Based on SlRvb's [ITS-Theme](https://github.com/SlRvb/Obsidian--ITS-Theme)
 
 ## Table of Contents
 - [Notation Colour Blocks](#notation-colour-blocks)
-- [Multistates Checkbox](#multistates-checkboxes)
+- [Multistates Checkbox](#multistates-checkbox)
 
 ## Notation Colour Blocks - [Download](https://github.com/bearoxo/Obsidian-Snippets/blob/main/notation-colour-blocks.css)
 ![image](https://github.com/bearoxo/Obsidian-Snippets/assets/53261024/352d4dcc-7675-424e-82f6-2b4b281ab36f)
